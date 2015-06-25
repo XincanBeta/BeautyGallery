@@ -14,6 +14,7 @@
 		9D603D411B3B87090011A9BF /* BeautyGalleryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D603D401B3B87090011A9BF /* BeautyGalleryTests.swift */; };
 		9D603D4B1B3B8ABA0011A9BF /* GalleryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D603D4A1B3B8ABA0011A9BF /* GalleryViewController.swift */; };
 		9D603D4D1B3B8B140011A9BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D603D4C1B3B8B140011A9BF /* Main.storyboard */; };
+		9D603D4F1B3B8C0C0011A9BF /* ViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D603D4E1B3B8C0C0011A9BF /* ViewControllerExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		9D603D401B3B87090011A9BF /* BeautyGalleryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeautyGalleryTests.swift; sourceTree = "<group>"; };
 		9D603D4A1B3B8ABA0011A9BF /* GalleryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GalleryViewController.swift; sourceTree = "<group>"; };
 		9D603D4C1B3B8B140011A9BF /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		9D603D4E1B3B8C0C0011A9BF /* ViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,9 +81,10 @@
 		9D603D271B3B87090011A9BF /* BeautyGallery */ = {
 			isa = PBXGroup;
 			children = (
-				9D603D4A1B3B8ABA0011A9BF /* GalleryViewController.swift */,
 				9D603D2A1B3B87090011A9BF /* AppDelegate.swift */,
 				9D603D2C1B3B87090011A9BF /* ViewController.swift */,
+				9D603D4A1B3B8ABA0011A9BF /* GalleryViewController.swift */,
+				9D603D4E1B3B8C0C0011A9BF /* ViewControllerExtension.swift */,
 				9D603D4C1B3B8B140011A9BF /* Main.storyboard */,
 				9D603D311B3B87090011A9BF /* Images.xcassets */,
 				9D603D331B3B87090011A9BF /* LaunchScreen.xib */,
@@ -215,6 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D603D4F1B3B8C0C0011A9BF /* ViewControllerExtension.swift in Sources */,
 				9D603D4B1B3B8ABA0011A9BF /* GalleryViewController.swift in Sources */,
 				9D603D2D1B3B87090011A9BF /* ViewController.swift in Sources */,
 				9D603D2B1B3B87090011A9BF /* AppDelegate.swift in Sources */,
