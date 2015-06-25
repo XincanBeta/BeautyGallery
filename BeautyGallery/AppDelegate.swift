@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  BeautyGallery
+//  MyBeautyGallery
 //
-//  Created by 李超 on 15/6/25.
+//  Created by 李超 on 15/6/22.
 //  Copyright (c) 2015年 8cloud. All rights reserved.
 //
 
